@@ -1,0 +1,2 @@
+This is markdown file.
+I created a 2nd file to learn true push function from my local GIT repository.
